@@ -2,36 +2,32 @@
   <img src="assets/logo.svg" width="200" alt="Scroll Less">
 </p>
 
-<h1 align="center">Scroll Less</h1>
-
-<p align="center"><strong>No judgment. Just awareness.</strong></p>
+<h1 align="center">Scroll Less. Live More!</h1>
 
 <p align="center">
-  Scroll Less helps you notice your phone habits and choose differently.
-  No shame, no tracking, and a small pixel buddy in your corner.
+  <strong>Your feed never ends. But your day does.</strong> Scroll Less shows you your screen time,
+  your real scroll distance, and the patterns behind your habits, all in a private, on-device,
+  <strong>Material 3 Expressive</strong> experience.
+</p>
+
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg" alt="Android Studio">&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg" alt="Kotlin">
 </p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=in.scrollless.android">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="72">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://scrollless.in"><img src="https://img.shields.io/badge/Website-scrollless.in-6750A4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>&nbsp;
-  <img src="https://img.shields.io/badge/Community%20space-6750A4?style=for-the-badge" alt="Community space">&nbsp;
+  <img src="https://img.shields.io/badge/version-0.1.3--Beta-6750A4?style=for-the-badge" alt="Version">&nbsp;
   <a href="https://github.com/InertExpert2911/ScrollLess-Community/issues"><img src="https://m3-markdown-badges.vercel.app/issues/1/1/InertExpert2911/ScrollLess-Community" alt="Open issues"></a>
 </p>
 
 <p align="center"><em>Community space for Scroll Less. The app is closed source; no app code lives here.</em></p>
-
----
-
-## What is Scroll Less
-
-The apps on your phone are built by teams whose whole job is to keep you there for thirty more seconds. Willpower alone loses that fight. Scroll Less is the other kind of screen time app. It does not shame you, lock you out, or lecture. It shows you what is actually happening, your time, your unlocks, your scroll distance in real meters, and adds a small pause where autopilot used to be.
-
-Everything stays on your phone. 100% private. Zero tracking. Always.
 
 ## Screenshots
 
@@ -50,20 +46,6 @@ Everything stays on your phone. 100% private. Zero tracking. Always.
   </table>
 </div>
 
-## What it does
-
-**Your scroll distance, in real meters.** Every swipe adds up. Scroll Less turns those pixels into real-world distance, so mindless scrolling becomes something you can actually feel, even on a day when screen time looks normal.
-
-**Your habits, made visible.** Accurate screen time and per-app usage, morning routines and late night patterns, daily goals and weekly insights into how your days really flow.
-
-**Gentle boundaries that stick.** Set a daily limit on any app, or on a whole group that shares one allowance. When the time runs out, a calm full-screen pause steps in instead of the app. Snooze when you truly need it, but each snooze gets shorter.
-
-**Nudges, not walls.** A soft on-screen check-in when you have been scrolling a while. It blocks nothing. It just adds a small pause where autopilot used to be.
-
-**Post Box.** Holds your distracting notifications and delivers them in calm, scheduled digests, so a single buzz does not start a whole scroll.
-
-**And more.** A daily journey of your day session by session, badges and streaks that serve your goals, twelve color themes with a true-black OLED mode, and full backup and restore. Meet Rollo, the small companion who lives inside the app and helps you notice.
-
 ## This repository
 
 This is the community home for Scroll Less. It is where you help shape the app.
@@ -74,19 +56,71 @@ This is the community home for Scroll Less. It is where you help shape the app.
 
 The Scroll Less app is proprietary. Its source code is not in this repository.
 
-## Get Scroll Less
+## Features
+
+### Your scroll distance, in meters
+
+Every swipe adds up. Scroll Less converts those pixels into real-world distance so you can feel the scale.
+
+- Daily scroll distance in meters and kilometers
+- Per-app scroll breakdowns, so you know where it all goes
+- Calibrate with a credit card for real-world accuracy
+
+### Your habits, made visible
+
+Scroll Less watches how you use your phone and turns it into patterns you can actually understand.
+
+- Accurate screen time and per-app usage, built from the system's own event stream
+- Morning routines, late night patterns, and everything in between
+- Daily goals and weekly insights into your behavior
+
+### Gentle boundaries that stick
+
+Set daily caps on any app, or on a whole group of apps that share one allowance.
+
+- Detects doomscrolling, late night sessions, and app hopping
+- Bundle apps like "Social Media" under a single shared limit
+- A calm full-screen blocking screen when a limit is reached
+- Snooze when you need to, but each snooze gets shorter
+
+### And more
+
+- **Post Box:** batches distracting notifications into calm, scheduled digests so a buzz does not start a scroll
+- **Daily journeys:** a clean timeline of your day's app activity
+- **Badges and streaks:** positive reinforcement designed to serve your goals
+- **Expressive theming:** 12 seed color themes, dynamic color on Android 12 and up, and a true-black OLED mode
+- **Backup and restore:** export and re-import your data and history
+
+## Design
+
+Built end to end on Material 3 Expressive, with physics-based motion, expressive shapes, and a
+seed-based color engine. The visual language follows a documented design system covering color,
+typography, spacing, motion, and accessibility, with a friendly and supportive tone throughout.
+Your data never leaves your device.
+
+## Permissions
+
+Scroll Less explains every permission in-app and asks only for what its features need:
+
+- **Usage access:** lets Scroll Less see which apps you use and for how long, so your dashboard stays accurate.
+- **Accessibility service:** lets Scroll Less measure how far you scroll and keep your limits running smoothly.
+- **Display over other apps:** shows a gentle on-screen nudge, or the blocking screen, when you have been scrolling a while. Without it, notifications are used instead.
+- **Notification access (optional):** counts your notifications and shows you where the noise comes from. Their content is never read.
+- **Battery optimization exemption (optional):** keeps Scroll Less running reliably in the background.
+
+## Install
 
 <a href="https://play.google.com/store/apps/details?id=in.scrollless.android">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64">
 </a>
 
-Works on Android 9 and up.
+Requirements: Android 9 (API 28) or higher.
 
 ## Links
 
 - Website: [scrollless.in](https://scrollless.in)
-- Google Play: [Scroll Less](https://play.google.com/store/apps/details?id=in.scrollless.android)
+- Google Play: [in.scrollless.android](https://play.google.com/store/apps/details?id=in.scrollless.android)
 - Privacy Policy: [scrollless.in/privacy-policy](https://scrollless.in/privacy-policy/)
 - Terms of Service: [scrollless.in/terms-of-service](https://scrollless.in/terms-of-service/)
 
-<p align="center"><em>Made with care in Chennai, India.</em></p>
+<p align="center"><em>Scroll less. Live more.</em></p>
