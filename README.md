@@ -13,7 +13,8 @@
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg" alt="Android Studio">&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg" alt="Kotlin">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg" alt="Kotlin">&nbsp;
+  <a href="https://github.com/InertExpert2911/ScrollLess-Community/issues"><img src="https://m3-markdown-badges.vercel.app/issues/1/1/InertExpert2911/ScrollLess-Community" alt="Open issues"></a>
 </p>
 
 <p align="center">
@@ -22,10 +23,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-0.1.3--Beta-6750A4?style=for-the-badge" alt="Version">&nbsp;
-  <a href="https://github.com/InertExpert2911/ScrollLess-Community/issues"><img src="https://m3-markdown-badges.vercel.app/issues/1/1/InertExpert2911/ScrollLess-Community" alt="Open issues"></a>
-</p>
 
 <p align="center"><em>Community space for Scroll Less. The app is closed source; no app code lives here.</em></p>
 
