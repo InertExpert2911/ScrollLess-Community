@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Request a feature or vote on one
+  - name: Suggest a feature or vote on one
     url: https://github.com/InertExpert2911/ScrollLess-Community/discussions/categories/ideas
-    about: Ideas live in Discussions, where everyone can vote. Post yours there.
-  - name: Ask a question or get help
+    about: Feature ideas live in Discussions, where anyone can vote. Add yours, or back one you like.
+  - name: Ask a question
     url: https://github.com/InertExpert2911/ScrollLess-Community/discussions/categories/q-a
-    about: Questions and how-to go in the Q&A discussions.
+    about: Wondering how something works? The Q&A discussions are the place to ask.
   - name: Get Scroll Less on Google Play
     url: https://play.google.com/store/apps/details?id=in.scrollless.android
-    about: Not installed yet? Grab it here.
+    about: Don't have the app yet? It's free to download.
