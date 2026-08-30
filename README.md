@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" width="200" alt="Scroll Less">
+  <img src="assets/logo.png" width="200" alt="Scroll Less">
 </p>
 
 <h1 align="center">Scroll Less. Live More!</h1>
@@ -84,8 +84,8 @@ Set daily caps on any app, or on a whole group of apps that share one allowance.
 
 - **Post Box:** batches distracting notifications into calm, scheduled digests so a buzz does not start a scroll
 - **Daily journeys:** a clean timeline of your day's app activity
-- **Badges:** positive reinforcement designed to serve your goals
-- **Expressive theming:** dynamic color on Android 12 and up, and a true-black OLED mode
+- **Badges and streaks:** positive reinforcement designed to serve your goals
+- **Expressive theming:** 12 seed color themes, dynamic color on Android 12 and up, and a true-black OLED mode
 - **Backup and restore:** export and re-import your data and history
 
 ## Design
@@ -102,8 +102,8 @@ Scroll Less explains every permission in-app and asks only for what its features
 - **Usage access:** lets Scroll Less see which apps you use and for how long, so your dashboard stays accurate.
 - **Accessibility service:** lets Scroll Less measure how far you scroll and keep your limits running smoothly.
 - **Display over other apps:** shows a gentle on-screen nudge, or the blocking screen, when you have been scrolling a while. Without it, notifications are used instead.
-- **Notification access:** counts your notifications and shows you where the noise comes from. Their content is never read.
-- **Battery optimization exemption:** keeps Scroll Less running reliably in the background.
+- **Notification access (optional):** counts your notifications and shows you where the noise comes from. Their content is never read.
+- **Battery optimization exemption (optional):** keeps Scroll Less running reliably in the background.
 
 ## Install
 
