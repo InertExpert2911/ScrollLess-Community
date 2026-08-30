@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping make Scroll Less better. A few quick details and we can track it down.
+        Found a bug? Nice catch. Tell us what happened below and we can get it fixed.
   - type: textarea
     id: what-happened
     attributes:
@@ -24,7 +24,7 @@ body:
         2. Tap ...
         3. See ...
     validations:
-      required: false
+      required: true
   - type: input
     id: app-version
     attributes:
@@ -47,3 +47,10 @@ body:
       placeholder: Pixel 7
     validations:
       required: false
+  - type: checkboxes
+    id: searched
+    attributes:
+      label: Before you post
+      options:
+        - label: I looked through the open issues and didn't find this one
+          required: true
