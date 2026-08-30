@@ -57,6 +57,14 @@ body:
       placeholder: Pixel 7
     validations:
       required: false
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics
+      description: Filled in for you when you report from inside the app. It just describes your device and settings so we can reproduce the bug. Please leave it as is.
+      render: text
+    validations:
+      required: false
   - type: checkboxes
     id: searched
     attributes:
