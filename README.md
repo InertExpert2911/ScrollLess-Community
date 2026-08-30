@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="280" alt="Scroll Less">
+  <img src="assets/logo.svg" width="200" alt="Scroll Less">
 </p>
 
 <h1 align="center">Scroll Less</h1>
@@ -19,7 +19,8 @@
 
 <p align="center">
   <a href="https://scrollless.in"><img src="https://img.shields.io/badge/Website-scrollless.in-6750A4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>&nbsp;
-  <img src="https://img.shields.io/badge/Community%20space-6750A4?style=for-the-badge" alt="Community space">
+  <img src="https://img.shields.io/badge/Community%20space-6750A4?style=for-the-badge" alt="Community space">&nbsp;
+  <a href="https://github.com/InertExpert2911/ScrollLess-Community/issues"><img src="https://m3-markdown-badges.vercel.app/issues/1/1/InertExpert2911/ScrollLess-Community" alt="Open issues"></a>
 </p>
 
 <p align="center"><em>Community space for Scroll Less. The app is closed source; no app code lives here.</em></p>
