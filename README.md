@@ -51,8 +51,6 @@ This is the community home for Scroll Less. It is where you help shape the app.
 - **Report a bug:** [open an issue](https://github.com/InertExpert2911/ScrollLess-Community/issues/new/choose)
 - **Ask a question or say hello:** [Discussions](https://github.com/InertExpert2911/ScrollLess-Community/discussions)
 
-The Scroll Less app is proprietary. Its source code is not in this repository.
-
 ## Features
 
 ### Your scroll distance, in meters
