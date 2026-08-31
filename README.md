@@ -24,7 +24,7 @@
 </p>
 
 
-<p align="center"><em>Community space for Scroll Less. The app is closed source; no app code lives here.</em></p>
+<p align="center"><em>Community space for Scroll Less. No app code lives here.</em></p>
 
 ## Screenshots
 
